@@ -1,7 +1,7 @@
 <?php
-$serverName = "lojafaculdade.000webhostapp.com:3306";
-$dbname = "id9290516_lojafaculdade";
-$usuario = "id9290516_lojafaculdadeadmin";
-$password = "lojafacul";
+$serverName = "remotemysql.com";
+$dbname = "OAqg4ORZFy";
+$usuario = "rEKdBD7Xjy";
+$password = "OAqg4ORZFy";
 
 $conn = mysqli_connect($serverName, $usuario, $password, $dbname);
